@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I am Daniel Bolaji a Cross Platform developer (Specializing in Mobile App Development) & a Crypto Trader, currently pursuing my Bachelors in Computer Science.
+- 🌱 I am open to an internship and looking to collaborate on Mobile App and Blockchain projects. I’m currently learning Solidity, Rust and Go.
+- 👯 I am interested in working on any project to increase my knowledge in Tech.
+- 💬 Ask me about Javascript and React-Native.
+- 📫 You can contact me via Twitter @dhan_bx
 
 <!--
 **devdhan/devdhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
