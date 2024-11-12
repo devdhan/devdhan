@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 🔭 I am Daniel Bolaji a Mobile App Development, currently pursuing my Bachelors in Computer Science.
-- 🌱 I am open to an internship and looking to collaborate on Mobile App and Blockchain projects. I’m currently learning Flutter.
+- 🌱 I am open to an internship and looking to collaborate on Mobile App projects. I’m currently exploring Flutter.
 - 👯 I am interested in working on any project to increase my knowledge in Tech.
-- 💬 Ask me about Java, Kotlin and Flutter.
+- 💬 Ask me about Flutter, Kotlin and Java.
 - 📫 You can contact me via Twitter @dhan_bx
 
 <!--
